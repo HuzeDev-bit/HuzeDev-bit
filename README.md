@@ -12,8 +12,9 @@
 
 </div>
 
-<img src="![Uploading 7a5c0b35-7ded-4bab-9dfd-6cd2501e5306.png…]()
-" width="100%" />
+<img width="100%" height="4" alt="7a5c0b35-7ded-4bab-9dfd-6cd2501e5306" src="https://github.com/user-attachments/assets/e2611290-c303-4b83-ba3e-a38057e0f8df" />
+
+">
 
 ## 🥋 About Me
 
