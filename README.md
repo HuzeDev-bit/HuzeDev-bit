@@ -62,11 +62,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,linux,vscode,aws" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,opencv,numpy,pandas,jupyter" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,cs,html,css,react,nextjs,tailwind,figma,nodejs,express,django,flask,fastapi,mysql,postgres,mongodb,redis,docker,git,github,linux,vscode,aws,tensorflow,pytorch,sklearn,opencv&perline=8" />
 
 </div>
 
