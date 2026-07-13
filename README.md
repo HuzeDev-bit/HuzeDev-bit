@@ -6,15 +6,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%2F+ML+Explorer;Kaizen+-+Continuous+Improvement" alt="typing svg" />
 
-<br/>
+</div>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=HuzeDev-bit&label=PROFILE+VIEWS&style=for-the-badge&color=c0392b&labelColor=0D1117" alt="profile views" />
 <img src="https://img.shields.io/github/followers/HuzeDev-bit?label=FOLLOWERS&style=for-the-badge&labelColor=0D1117&color=c0392b&logo=github&logoColor=c0392b" alt="followers" />
 <img src="https://img.shields.io/github/stars/HuzeDev-bit?label=TOTAL+STARS&style=for-the-badge&labelColor=0D1117&color=c0392b&logo=github&logoColor=c0392b" alt="stars" />
+</p>
 
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:c0392b&height=80&section=header&text=🥋%20About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%" />
-
-</div>
+</p>
 
 - 🔭 Building full-stack web apps — from pixel-perfect frontends to the APIs that power them
 - 🤖 Deep in **Artificial Intelligence & Machine Learning**, exploring models that actually ship
@@ -22,24 +24,22 @@
 - ⚔️ I live by **改善 (Kaizen)** — continuous improvement, one commit at a time
 - 💬 Ask me about JavaScript/TypeScript, Python, React, Node.js, or anything ML
 
-<div align="center">
-
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:c0392b&height=80&section=header&text=🔗%20Connect%20With%20Me&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%" />
+</p>
 
-<br/><br/>
-
+<p align="center">
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c0392b" /></a>
 <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=c0392b" /></a>
 <a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=c0392b" /></a>
+</p>
 
-<br/><br/>
-
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:c0392b&height=80&section=header&text=📊%20GitHub%20Status&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%" />
+</p>
 
-</div>
-
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=HuzeDev-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=c0392b&icon_color=c0392b&text_color=ffffff&ring_color=c0392b&cache_seconds=86400" width="100%" />
@@ -50,18 +50,27 @@
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=HuzeDev-bit&hide_border=true&background=0D1117&ring=c0392b&fire=c0392b&currStreakLabel=c0392b&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+</p>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HuzeDev-bit&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:c0392b&height=80&section=header&text=🗡️%20Tools%20%26%20Tech&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%" />
+</p>
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,cs,html,css,react,nextjs,tailwind,figma,nodejs,express,django,flask,fastapi,mysql,postgres,mongodb,redis,docker,git,github,linux,vscode,aws,tensorflow,pytorch,sklearn,opencv&perline=8" />
+</p>
 
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:c0392b&height=80&section=header&text=🏆%20Best%20Repositories&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%" />
+</p>
 
-</div>
-
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzeDev-bit&repo=your-repo-name-1&hide_border=true&bg_color=0D1117&title_color=c0392b&icon_color=c0392b&text_color=ffffff&cache_seconds=86400" width="100%" />
