@@ -45,4 +45,53 @@
 <img src="https://github-readme-stats.vercel.app/api?username=HuzeDev-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=c0392b&icon_color=c0392b&text_color=ffffff&ring_color=c0392b" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzeDev-bit&layout=compact&hide_border=true&bg_color=0D1117&title_color=
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzeDev-bit&layout=compact&hide_border=true&bg_color=0D1117&title_color=c0392b&text_color=ffffff&langs_count=8" width="100%" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HuzeDev-bit&hide_border=true&background=0D1117&ring=c0392b&fire=c0392b&currStreakLabel=c0392b&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HuzeDev-bit&theme=react-dark&bg_color=0D1117&color=c0392b&line=c0392b&point=ffffff&hide_border=true" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:c0392b&height=3&section=header" width="100%" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,linux,vscode,aws" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,opencv,numpy,pandas,jupyter" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:c0392b&height=3&section=header" width="100%" />
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzeDev-bit&repo=your-repo-name-1&hide_border=true&bg_color=0D1117&title_color=c0392b&icon_color=c0392b&text_color=ffffff" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzeDev-bit&repo=your-repo-name-2&hide_border=true&bg_color=0D1117&title_color=c0392b&icon_color=c0392b&text_color=ffffff" width="100%" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 改善 (Kaizen)
+*Strive for continuous improvement in everything you do.*
+
+<a href="https://www.buymeacoffee.com/your-handle">
+<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-c0392b?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c0392b,100:0D1117&height=100&section=footer" width="100%" />
