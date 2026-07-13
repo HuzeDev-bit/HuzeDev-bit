@@ -12,7 +12,8 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:c0392b&height=3&section=header" width="100%" />
+<img src="![Uploading 7a5c0b35-7ded-4bab-9dfd-6cd2501e5306.png…]()
+" width="100%" />
 
 ## 🥋 About Me
 
